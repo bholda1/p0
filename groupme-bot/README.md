@@ -6,6 +6,7 @@
 - Bot will resond to only you with a random text about why it is busy and cant respond whenever you text
 - Ignores messages from itself as well as other bots so it wont get stuck in a loop
 - If you text "tell me about ____" the bot uses the news api to find recent articles related to youre search, it will provide a description as well as a url
+- News api ca be found [here](https://newsapi.org/)
 
 ## Set Up 
 
