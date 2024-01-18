@@ -10,7 +10,7 @@
 ## Set Up 
 
 1. Please make sure that python3 as well as 'pip' is installed on youre machine
-- python3 can be instaleld [Here]](https://www.python.org/downloads/)
+- python3 can be instaleld [Here](https://www.python.org/downloads/)
 2. Set up your '.env' file based on your information. create a file called '.env' to hold your environment variables:
 'BOT_ID = ...       # your GroupMe Bot ID
 GROUP_ID = ...      # your GroupMe group ID where you want the bot to be
